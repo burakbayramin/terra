@@ -1,7 +1,3 @@
-# Terra
-
-Merhaba dostum! Bu, React Native, Expo ve Supabase ile geliştirilmiş mobil uygulamamız Terra'nın README dosyası. Burada projeyi nasıl kurup çalıştıracağını ve Expo Go uygulamasını nasıl kullanacağını anlatacağım.
-
 ## Başlamadan Önce
 
 Öncelikle, bilgisayarında şunların yüklü olması gerekiyor:
